@@ -19,19 +19,19 @@ h1 {
     margin-bottom: 20px;
 }
 
-footer{
+footer {
     margin-top: 20px;
     color: #fff;
     font-size: 13px;
     text-align: center;
 }
 
-.busca{
+.busca {
     display: flex;
     width: 300px;
 }
 
-.busca #searchInput{
+.busca #searchInput {
     flex: 1;
     padding: 10px;
     outline: none;
@@ -40,40 +40,40 @@ footer{
     border: 0;
 }
 
-.busca button{
+.busca button {
     padding: 10px;
     font-size: 15px;
     border: 0;
-    background-color: rgb(36,125,226);
-    color: #FFF;
+    background-color: rgb(36, 125, 226);
+    color: #fff;
     border-radius: 5px;
     margin-left: 10px;
     cursor: pointer;
 }
 
-.busca button:hover{
+.busca button:hover {
     background-color: rgb(115, 173, 238);
 }
 
 .resultado {
     width: 300px;
     display: none;
-    border: 1px dotted #FFF;
+    border: 1px dotted #fff;
     margin-top: 20px;
     border-radius: 15px;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
-.titulo{
+.titulo {
     width: 100px;
-    color: #FFF;
+    color: #fff;
     font-size: 25px;
     font-weight: bold;
     text-align: center;
     padding: 20px;
 }
 
-.info{
+.info {
     display: flex;
     width: 100%;
 }
@@ -89,7 +89,7 @@ footer{
 }
 
 .tempTitulo,
-.ventoTitulo{
+.ventoTitulo {
     color: #777;
     font-size: 16px;
     margin-bottom: 5px;
@@ -97,7 +97,7 @@ footer{
 
 .tempInfo,
 .ventoInfo {
-    color: #FFF;
+    color: #fff;
     font-size: 30px;
     font-weight: bold;
 }
@@ -112,10 +112,10 @@ footer{
     font-weight: normal;
 }
 
-.ventoArea{
+.ventoArea {
     width: 50px;
     height: 50px;
-    border: 1px solid #FFF;
+    border: 1px solid #fff;
     border-radius: 50%;
     margin: auto;
     margin-top: 20px;
@@ -126,23 +126,23 @@ footer{
 .ventoPonto {
     width: 15px;
     height: 1px;
-    background-color: #FFF;
+    background-color: #fff;
     transform-origin: left;
 }
 
 .aviso {
-    color: #FFF;
+    color: #fff;
     padding-top: 20px;
 }
 
-footer{
+footer {
     margin-top: 20px;
-    color: #FFF;
+    color: #fff;
     font-size: 13px;
     text-align: center;
 }
 
-.climaTitulo{
+.climaTitulo {
     color: #777;
     font-size: 16px;
     margin-bottom: 25px;
